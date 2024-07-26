@@ -8583,7 +8583,7 @@
 				(hide yes)
 			)
 		)
-		(property "MRF_NUMBER" ""
+		(property "Mfr_Number" "CRCW060310K0FKEA"
 			(at 97.79 139.7 0)
 			(effects
 				(font
@@ -8602,6 +8602,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 97.79 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 97.79 139.7 0)
 			(effects
 				(font
@@ -8697,7 +8706,7 @@
 				(hide yes)
 			)
 		)
-		(property "MRF_NUMBER" ""
+		(property "Mfr_Number" "CRCW060347R0FKEA"
 			(at 254 129.54 0)
 			(effects
 				(font
@@ -8716,6 +8725,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 254 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 254 129.54 0)
 			(effects
 				(font
@@ -8809,7 +8827,7 @@
 				(hide yes)
 			)
 		)
-		(property "MRF_NUMBER" ""
+		(property "Mfr_Number" "CRCW060310K0FKEA"
 			(at 50.8 142.24 0)
 			(effects
 				(font
@@ -8828,6 +8846,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 50.8 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 50.8 142.24 0)
 			(effects
 				(font
@@ -8923,7 +8950,7 @@
 				(hide yes)
 			)
 		)
-		(property "MRF_NUMBER" ""
+		(property "Mfr_Number" "C0603C106M9PAC"
 			(at 38.1 113.03 0)
 			(effects
 				(font
@@ -8942,6 +8969,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 38.1 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 38.1 113.03 0)
 			(effects
 				(font
@@ -9037,7 +9073,7 @@
 				(hide yes)
 			)
 		)
-		(property "MRF_NUMBER" ""
+		(property "Mfr_Number" "C0603C106M9PAC"
 			(at 121.92 33.02 0)
 			(effects
 				(font
@@ -9056,6 +9092,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 121.92 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 121.92 33.02 0)
 			(effects
 				(font
@@ -9214,7 +9259,7 @@
 				(hide yes)
 			)
 		)
-		(property "MRF_NUMBER" ""
+		(property "Mfr_Number" "CRCW060310K0FKEA"
 			(at 101.6 163.83 0)
 			(effects
 				(font
@@ -9233,6 +9278,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 101.6 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 101.6 163.83 0)
 			(effects
 				(font
@@ -9328,7 +9382,7 @@
 				(hide yes)
 			)
 		)
-		(property "MRF_NUMBER" ""
+		(property "Mfr_Number" "C0603C106M9PAC"
 			(at 102.87 111.76 0)
 			(effects
 				(font
@@ -9347,6 +9401,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 102.87 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 102.87 111.76 0)
 			(effects
 				(font
@@ -9558,7 +9621,7 @@
 				(hide yes)
 			)
 		)
-		(property "MRF_NUMBER" ""
+		(property "Mfr_Number" "LM1117MPX-3.3/NOPB"
 			(at 63.5 105.41 0)
 			(effects
 				(font
@@ -9577,6 +9640,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 63.5 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 63.5 105.41 0)
 			(effects
 				(font
@@ -9728,7 +9800,7 @@
 				(hide yes)
 			)
 		)
-		(property "MRF_NUMBER" ""
+		(property "Mfr_Number" "FSM4JH"
 			(at 76.2 168.91 0)
 			(effects
 				(font
@@ -9747,6 +9819,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 76.2 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 76.2 168.91 0)
 			(effects
 				(font
@@ -10001,7 +10082,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "TPD4E02B04DQAR"
+		(property "Mfr_Number" "TPD4E02B04DQAR"
 			(at 125.73 855.88 0)
 			(effects
 				(font
@@ -10048,6 +10129,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 99.06 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 99.06 60.96 0)
 			(effects
 				(font
@@ -10255,7 +10345,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "SZNUP2105LT1G"
+		(property "Mfr_Number" "SZNUP2105LT1G"
 			(at 234.95 932.08 0)
 			(effects
 				(font
@@ -10293,6 +10383,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 218.44 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 218.44 137.16 0)
 			(effects
 				(font
@@ -10490,7 +10589,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier_Number" "PTS636 SKG25J SMTR LFS"
+		(property "Supplier_Number" "611-PTS636SKG25JSMTR"
 			(at 39.624 138.43 0)
 			(effects
 				(font
@@ -10508,7 +10607,7 @@
 				(hide yes)
 			)
 		)
-		(property "MRF_NUMBER" ""
+		(property "Mfr_Number" "PTS636 SKG25J SMTR LFS"
 			(at 39.37 146.05 0)
 			(effects
 				(font
@@ -10527,6 +10626,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 39.37 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 39.37 146.05 0)
 			(effects
 				(font
@@ -10621,7 +10729,7 @@
 				(hide yes)
 			)
 		)
-		(property "MRF_NUMBER" ""
+		(property "Mfr_Number" "C0603C104K5RAC3121"
 			(at 86.36 177.8 0)
 			(effects
 				(font
@@ -10640,6 +10748,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 86.36 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 86.36 177.8 0)
 			(effects
 				(font
@@ -10823,7 +10940,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "SN65HVD232DR"
+		(property "Mfr_Number" "SN65HVD232DR"
 			(at 191.77 929.54 0)
 			(effects
 				(font
@@ -10870,6 +10987,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 167.64 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 167.64 134.62 0)
 			(effects
 				(font
@@ -10984,7 +11110,7 @@
 				(hide yes)
 			)
 		)
-		(property "MRF_NUMBER" ""
+		(property "Mfr_Number" "C0603C106M9PAC"
 			(at 195.58 36.83 0)
 			(effects
 				(font
@@ -11003,6 +11129,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 195.58 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 195.58 36.83 0)
 			(effects
 				(font
@@ -11132,7 +11267,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier_Number" "538-171971-0103"
+		(property "Supplier_Number" "538-70543-0002"
 			(at 250.19 44.45 0)
 			(effects
 				(font
@@ -11150,7 +11285,7 @@
 				(hide yes)
 			)
 		)
-		(property "MRF_NUMBER" ""
+		(property "Mfr_Number" "705430002"
 			(at 250.19 44.45 0)
 			(effects
 				(font
@@ -11169,6 +11304,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 250.19 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 250.19 44.45 0)
 			(effects
 				(font
@@ -11265,7 +11409,7 @@
 				(hide yes)
 			)
 		)
-		(property "MRF_NUMBER" ""
+		(property "Mfr_Number" "CRCW120660R0KNAIF"
 			(at 208.28 146.05 0)
 			(effects
 				(font
@@ -11284,6 +11428,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 208.28 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 208.28 146.05 0)
 			(effects
 				(font
@@ -11430,7 +11583,7 @@
 				(hide yes)
 			)
 		)
-		(property "MRF_NUMBER" ""
+		(property "Mfr_Number" "150060RS75000"
 			(at 114.3 95.25 0)
 			(effects
 				(font
@@ -11449,6 +11602,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 114.3 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 114.3 95.25 0)
 			(effects
 				(font
@@ -11697,7 +11859,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "SK14"
+		(property "Mfr_Number" "SK14"
 			(at 102.87 -758.09 0)
 			(effects
 				(font
@@ -11718,6 +11880,15 @@
 		)
 		(property "Supplier" "Mouser"
 			(at 114.046 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
+			(at 114.3 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11835,7 +12006,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "SK14"
+		(property "Mfr_Number" "SK14"
 			(at 248.92 881.28 0)
 			(effects
 				(font
@@ -11856,6 +12027,15 @@
 		)
 		(property "Supplier" "Mouser"
 			(at 237.744 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
+			(at 237.49 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11948,7 +12128,7 @@
 				(hide yes)
 			)
 		)
-		(property "MRF_NUMBER" ""
+		(property "Mfr_Number" "CRCW120660R0KNAIF"
 			(at 200.66 146.05 0)
 			(effects
 				(font
@@ -11967,6 +12147,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 200.66 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 200.66 146.05 0)
 			(effects
 				(font
@@ -12096,7 +12285,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier_Number" "PTS636 SKG25J SMTR LFS"
+		(property "Supplier_Number" "611-PTS636SKG25JSMTR"
 			(at 86.614 137.16 0)
 			(effects
 				(font
@@ -12114,7 +12303,7 @@
 				(hide yes)
 			)
 		)
-		(property "MRF_NUMBER" ""
+		(property "Mfr_Number" "PTS636 SKG25J SMTR LFS"
 			(at 86.36 144.78 0)
 			(effects
 				(font
@@ -12133,6 +12322,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 86.36 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 86.36 144.78 0)
 			(effects
 				(font
@@ -12279,7 +12477,7 @@
 				(hide yes)
 			)
 		)
-		(property "MRF_NUMBER" ""
+		(property "Mfr_Number" "150060RS75000"
 			(at 261.62 129.54 0)
 			(effects
 				(font
@@ -12298,6 +12496,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 261.62 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 261.62 129.54 0)
 			(effects
 				(font
@@ -12492,7 +12699,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier_Number" "538-171971-0103"
+		(property "Supplier_Number" "538-70543-0002"
 			(at 250.19 62.23 0)
 			(effects
 				(font
@@ -12510,7 +12717,7 @@
 				(hide yes)
 			)
 		)
-		(property "MRF_NUMBER" ""
+		(property "Mfr_Number" "705430002"
 			(at 250.19 62.23 0)
 			(effects
 				(font
@@ -12529,6 +12736,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 250.19 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 250.19 62.23 0)
 			(effects
 				(font
@@ -12690,7 +12906,7 @@
 				(hide yes)
 			)
 		)
-		(property "MRF_NUMBER" ""
+		(property "Mfr_Number" "CRCW060310K0FKEA"
 			(at 50.8 163.83 0)
 			(effects
 				(font
@@ -12709,6 +12925,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 50.8 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 50.8 163.83 0)
 			(effects
 				(font
@@ -12805,7 +13030,7 @@
 				(hide yes)
 			)
 		)
-		(property "MRF_NUMBER" ""
+		(property "Mfr_Number" "CRCW06035K10FKEA"
 			(at 86.36 60.96 0)
 			(effects
 				(font
@@ -12824,6 +13049,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 86.36 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 86.36 60.96 0)
 			(effects
 				(font
@@ -12944,7 +13178,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "TSW-103-07-T-S"
+		(property "Mfr_Number" "705430002"
 			(at 234.95 944.78 0)
 			(effects
 				(font
@@ -12954,7 +13188,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier_Number" "538-171971-0103"
+		(property "Supplier_Number" "538-70543-0002"
 			(at 218.44 149.86 0)
 			(effects
 				(font
@@ -12964,15 +13198,6 @@
 			)
 		)
 		(property "Supplier" "Mouser"
-			(at 218.44 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MRF_NUMBER" ""
 			(at 218.44 149.86 0)
 			(effects
 				(font
@@ -12991,6 +13216,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 218.44 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 218.44 149.86 0)
 			(effects
 				(font
@@ -13271,7 +13505,7 @@
 				(hide yes)
 			)
 		)
-		(property "MRF_NUMBER" ""
+		(property "Mfr_Number" "1190297"
 			(at 250.19 27.94 0)
 			(effects
 				(font
@@ -13290,6 +13524,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 250.19 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 250.19 27.94 0)
 			(effects
 				(font
@@ -13392,7 +13635,7 @@
 				(hide yes)
 			)
 		)
-		(property "MRF_NUMBER" ""
+		(property "Mfr_Number" " C0603C101J1GAC7411"
 			(at 204.47 129.54 0)
 			(effects
 				(font
@@ -13411,6 +13654,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 204.47 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 204.47 129.54 0)
 			(effects
 				(font
@@ -13540,7 +13792,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier_Number" "PTS636 SKG25J SMTR LFS"
+		(property "Supplier_Number" "611-PTS636SKG25JSMTR"
 			(at 39.624 161.29 0)
 			(effects
 				(font
@@ -13558,7 +13810,7 @@
 				(hide yes)
 			)
 		)
-		(property "MRF_NUMBER" ""
+		(property "Mfr_Number" "PTS636 SKG25J SMTR LFS"
 			(at 39.37 168.91 0)
 			(effects
 				(font
@@ -13577,6 +13829,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 39.37 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 39.37 168.91 0)
 			(effects
 				(font
@@ -13826,7 +14087,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "SSW-103-01-F-S"
+		(property "Mfr_Number" "705430002"
 			(at 270.51 943.51 0)
 			(effects
 				(font
@@ -13836,7 +14097,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier_Number" "538-171971-0103"
+		(property "Supplier_Number" "538-70543-0002"
 			(at 254 148.59 0)
 			(effects
 				(font
@@ -13846,15 +14107,6 @@
 			)
 		)
 		(property "Supplier" "Mouser"
-			(at 254 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MRF_NUMBER" ""
 			(at 254 148.59 0)
 			(effects
 				(font
@@ -13873,6 +14125,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 254 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 254 148.59 0)
 			(effects
 				(font
@@ -13972,7 +14233,7 @@
 				(hide yes)
 			)
 		)
-		(property "MRF_NUMBER" ""
+		(property "Mfr_Number" "C0603C104K5RAC3121"
 			(at 49.53 113.03 0)
 			(effects
 				(font
@@ -13991,6 +14252,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 49.53 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 49.53 113.03 0)
 			(effects
 				(font
@@ -14087,7 +14357,7 @@
 				(hide yes)
 			)
 		)
-		(property "MRF_NUMBER" ""
+		(property "Mfr_Number" "C0603C104K5RAC3121"
 			(at 201.93 36.83 0)
 			(effects
 				(font
@@ -14106,6 +14376,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 201.93 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 201.93 36.83 0)
 			(effects
 				(font
@@ -14355,7 +14634,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "TSW-102-07-T-S"
+		(property "Mfr_Number" "TSW-102-07-T-S"
 			(at 264.16 897.79 0)
 			(effects
 				(font
@@ -14393,6 +14672,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 247.65 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 247.65 102.87 0)
 			(effects
 				(font
@@ -14620,7 +14908,7 @@
 				(hide yes)
 			)
 		)
-		(property "MRF_NUMBER" ""
+		(property "Mfr_Number" " C0603C472J5GACTU"
 			(at 191.77 151.13 0)
 			(effects
 				(font
@@ -14639,6 +14927,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 191.77 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 191.77 151.13 0)
 			(effects
 				(font
@@ -14921,7 +15218,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr_Number" "356-ESP32-S3WROOM1N8"
+		(property "Mfr_Number" "ESP32-S3-WROOM-1-N8"
 			(at 176.53 58.42 0)
 			(effects
 				(font
@@ -14967,6 +15264,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 176.53 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 176.53 58.42 0)
 			(effects
 				(font
@@ -15269,7 +15575,7 @@
 				(hide yes)
 			)
 		)
-		(property "MRF_NUMBER" ""
+		(property "Mfr_Number" "C0603C104K5RAC3121"
 			(at 161.29 146.05 0)
 			(effects
 				(font
@@ -15288,6 +15594,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 161.29 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 161.29 146.05 0)
 			(effects
 				(font
@@ -15383,7 +15698,7 @@
 				(hide yes)
 			)
 		)
-		(property "MRF_NUMBER" ""
+		(property "Mfr_Number" " C0603C101J1GAC7411"
 			(at 210.82 129.54 0)
 			(effects
 				(font
@@ -15402,6 +15717,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 210.82 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 210.82 129.54 0)
 			(effects
 				(font
@@ -15496,7 +15820,7 @@
 				(hide yes)
 			)
 		)
-		(property "MRF_NUMBER" ""
+		(property "Mfr_Number" "C0603C104K5RAC3121"
 			(at 86.36 148.59 0)
 			(effects
 				(font
@@ -15515,6 +15839,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 86.36 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 86.36 148.59 0)
 			(effects
 				(font
@@ -15611,7 +15944,7 @@
 				(hide yes)
 			)
 		)
-		(property "MRF_NUMBER" ""
+		(property "Mfr_Number" "C0603C104K5RAC3121"
 			(at 114.3 111.76 0)
 			(effects
 				(font
@@ -15630,6 +15963,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 114.3 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 114.3 111.76 0)
 			(effects
 				(font
@@ -15723,7 +16065,7 @@
 				(hide yes)
 			)
 		)
-		(property "MRF_NUMBER" ""
+		(property "Mfr_Number" " CRCW0603120RFKEA"
 			(at 250.19 151.13 0)
 			(effects
 				(font
@@ -15742,6 +16084,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 250.19 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 250.19 151.13 0)
 			(effects
 				(font
@@ -16066,7 +16417,7 @@
 				(hide yes)
 			)
 		)
-		(property "MRF_NUMBER" ""
+		(property "Mfr_Number" "M20-9990446"
 			(at 252.73 81.28 0)
 			(effects
 				(font
@@ -16103,6 +16454,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 252.73 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 252.73 81.28 0)
 			(effects
 				(font
@@ -16204,7 +16564,7 @@
 				(hide yes)
 			)
 		)
-		(property "MRF_NUMBER" ""
+		(property "Mfr_Number" "CRCW060347R0FKEA"
 			(at 104.14 95.25 0)
 			(effects
 				(font
@@ -16223,6 +16583,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 104.14 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 104.14 95.25 0)
 			(effects
 				(font
@@ -16317,7 +16686,7 @@
 				(hide yes)
 			)
 		)
-		(property "MRF_NUMBER" ""
+		(property "Mfr_Number" "C0603C104K5RAC3121"
 			(at 39.37 149.86 0)
 			(effects
 				(font
@@ -16336,6 +16705,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 39.37 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 39.37 149.86 0)
 			(effects
 				(font
@@ -16430,7 +16808,7 @@
 				(hide yes)
 			)
 		)
-		(property "MRF_NUMBER" ""
+		(property "Mfr_Number" "C0603C104K5RAC3121"
 			(at 39.37 172.72 0)
 			(effects
 				(font
@@ -16449,6 +16827,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 39.37 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 39.37 172.72 0)
 			(effects
 				(font
@@ -16609,7 +16996,7 @@
 				(hide yes)
 			)
 		)
-		(property "MRF_NUMBER" ""
+		(property "Mfr_Number" "CRCW06035K10FKEA"
 			(at 29.21 39.37 0)
 			(effects
 				(font
@@ -16628,6 +17015,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 29.21 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 29.21 39.37 0)
 			(effects
 				(font
@@ -16763,7 +17159,7 @@
 				(hide yes)
 			)
 		)
-		(property "MRF_NUMBER" ""
+		(property "Mfr_Number" "USB4105-GF-A-120"
 			(at 57.15 49.53 0)
 			(effects
 				(font
@@ -16781,7 +17177,16 @@
 				(hide yes)
 			)
 		)
-		(property "Part_Number" ""
+		(property "Part_Number" "USB4105-GF-A-120"
+			(at 57.15 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mrf_Number" ""
 			(at 57.15 49.53 0)
 			(effects
 				(font

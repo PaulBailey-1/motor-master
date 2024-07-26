@@ -104,9 +104,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "gerber")
 		)
 	)
 	(net 0 "")
@@ -4443,7 +4443,7 @@
 		(descr "TSW-102-XX-YY-S")
 		(tags "Connector")
 		(property "Reference" "J1"
-			(at -2.25 0 180)
+			(at -0.865071 2.324069 180)
 			(layer "F.SilkS")
 			(uuid "208f00d6-5b04-4e08-b410-29f602b67c8d")
 			(effects
@@ -4454,7 +4454,7 @@
 			)
 		)
 		(property "Value" "EXT"
-			(at -0.206986 3.462927 180)
+			(at -2.311707 -0.057316 180)
 			(layer "F.SilkS")
 			(uuid "8a685677-a007-4ca5-a9e4-812aea6681af")
 			(effects
@@ -8326,7 +8326,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C11"
-			(at -3 0.5 180)
+			(at -3.675096 0.418395 180)
 			(layer "F.SilkS")
 			(uuid "a334d551-4c48-4cef-8529-6c20013f4a81")
 			(effects
@@ -13652,7 +13652,7 @@
 		(descr "SMA ~ DO-214AC")
 		(tags "Diode")
 		(property "Reference" "D2"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.SilkS")
 			(uuid "37496fe1-faf2-4ba6-b42d-f68e62f68867")
 			(effects
@@ -16636,7 +16636,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C8"
-			(at -2 0 360)
+			(at -2 0 0)
 			(layer "F.SilkS")
 			(uuid "e029d29c-8106-4c7a-976d-3147c8112daf")
 			(effects
@@ -17002,7 +17002,7 @@
 		(uuid "f9efa153-1e5f-41ea-8cb5-14e0101c6cbf")
 	)
 	(gr_text "47x55.5mm"
-		(at 138.272576 103.789211 90)
+		(at 138.272576 105 90)
 		(layer "B.SilkS")
 		(uuid "d16d5080-f769-421c-8edc-ad21482efa77")
 		(effects
