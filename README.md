@@ -30,4 +30,6 @@ Dependencies:
 
 To program the board, connect to it with USB C or with an FTID adapter and program it with the Arduino IDE. Install the ESP32 boards and the required libraries, select 'ESP32S3 Dev Module' as the board, and upload.  
 
-The first time the board is programmed after being assembled, the Boot button must be held from when it is plugged until it has been flashed. For debugging over USB C make sure the 'USB CDC On Boot' option is enabled so that you can get logging over the serial port.
+The name of the board over Bluetooth can have a postfix added to it in the code to help distinguish it.
+The first time the board is programmed after being assembled, the Boot button must be held from when it is plugged until it has been flashed.
+For debugging over USB C make sure the 'USB CDC On Boot' option is enabled so that you can get logging over the serial port.
