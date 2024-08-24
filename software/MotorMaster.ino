@@ -6,6 +6,9 @@
 #include "CanConnection.h"
 #include "CanMotorController.h"
 
+// Add a postfix to distingish the device
+String namePostfix = "";
+
 // See the following for generating UUIDs:
 // https://www.uuidgenerator.net/
 
@@ -76,7 +79,7 @@ void setup() {
     Serial.begin(115200);
     Serial.println("Starting MotorMaster");
 
-    btServer = new BluetoothServer("MotorMaster", SERVICE_UUID);
+    btServer = new BluetoothServer("MotorMaster" + namePostfix, SERVICE_UUID);
     btServer->bindCharacteristic(pwm1Enabled, PWM1_ENABLE_CHARACTERISTIC_UUID);
     btServer->bindCharacteristic(pwm1UserCmd, PWM1_CMD_CHARACTERISTIC_UUID);
     btServer->bindCharacteristic(pwm2Enabled, PWM2_ENABLE_CHARACTERISTIC_UUID);
